@@ -1,1 +1,1 @@
-#Курс ITDoctor Учим язык PHP#
+Курс ITDoctor Учим язык PHP
